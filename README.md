@@ -145,7 +145,6 @@ Lucro por País = SUMMARIZE('FactInternetSales', 'DimGeography'[PaisCliente], "L
 
 
 ## 9. Criação dos Dashboards no Power BI
-Clientes_Vendas.PNG
 Com os dados e medidas importados, é possível criar dashboards interativos no Power BI para visualizar os indicadores de forma clara e intuitiva. Aqui estão algumas sugestões de visualizações para cada aba:
 Aba Geral:
 Gráfico de barras para Receita Total por Categoria de Produto.
